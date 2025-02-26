@@ -1,1 +1,1 @@
-# minis6
+# Gene-editinng effciency analyzer
