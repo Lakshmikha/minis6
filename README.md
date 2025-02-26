@@ -1,1 +1,1 @@
-# Gene-editinng effciency analyzer
+# Gene-editing effciency analyzer
